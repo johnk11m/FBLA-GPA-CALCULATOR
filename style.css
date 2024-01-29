@@ -1,0 +1,54 @@
+h3 {
+    text-align: center;
+    }
+.btn1{
+    width: 100%;
+    height: 100px;
+    color: white;
+    font-size:xx-large;
+    }
+    .custom-heading{
+        font-size:x-small;
+        margin: 0;
+       color:white;
+    } 
+
+     #selectedGradeDisplay {
+        color: white;
+        display: inline-block;  
+    }
+    h6 {
+        box-align: right;
+       
+        }
+
+.modal{
+        font-size:larger;
+        text-align:center;
+        
+    }
+.select-wrapper input.select-dropdown {
+        color: white;
+    }
+
+.resetNav {
+        color: black;
+    }
+#calculateUnweighted{
+    border-radius: 20px;
+    border-color: gold;
+    color: black;
+}
+#calculateWeighted{
+    border-radius: 20px;
+    border-color: gold;
+    color: black;
+}
+.modal-trigger{
+    color:black;
+}
+
+
+
+
+
